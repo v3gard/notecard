@@ -10,10 +10,8 @@ Sample screenshots are provided below.
 ![C Chord Treble](/gfx/c_chord_treble.png)
 
 ![C](/gfx/c.png)
-![Alt Text](url)
 
 ![C Chord Bass](/gfx/c_chord_bass.png)
-![Alt Text](url)
 
 ## Build and run instructions
 
