@@ -15,7 +15,7 @@ Sample screenshots are provided below.
 
 ## Build and run instructions
 
-Attached setup.py file uses py2app to create a Mac OS capable application.
+Attached setup.py file uses py2app to create a Mac OS capable application. To create an app, run this from the command line: ``python setup.py py2app -A``.
 
 On other platforms:
 
