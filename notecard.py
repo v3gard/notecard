@@ -202,13 +202,13 @@ pygame.font.init()
 
 # List all midi devices
 midi=True
-mididevices = pygame.midi.get_count()
-if (mididevices == 0):
-    print("No MIDI devices found.")
+default_input_id = pygame.midi.get_default_input_id()
+if (default_input_id == -1):
+    print("No MIDI input devices found.")
     midi=False
 
 if midi:
-    inp = pygame.midi.Input(0)
+    inp = pygame.midi.Input(default_input_id)
 
 WIDTH = 640
 HEIGHT = 480
