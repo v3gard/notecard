@@ -7,10 +7,13 @@ then appear on the staff.
 
 Sample screenshots are provided below.
 
+## C chord (middle C)
 ![C Chord Treble](/gfx/c_chord_treble.png)
 
+## C note
 ![C](/gfx/c.png)
 
+## C chord (one octave lower than middle C)
 ![C Chord Bass](/gfx/c_chord_bass.png)
 
 ## Build and run instructions
